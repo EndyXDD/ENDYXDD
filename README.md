@@ -1,6 +1,6 @@
 ![banner](https://imgur.com/Qh8FuHg.jpg)
 
-<h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Endy</h1>
+<h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Ken</h1>
 <h3 align = "center"><strong>Student | Average Coder | Content Creator </h3>
   
   <p align="center">
