@@ -37,7 +37,7 @@
 <br>  
 [<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/a3EjDW2Uu3)
 <br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ItzmeKen)
+[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/KenOp1337)
 <br>  
 [<img align="top" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/EndyXDDD)
 <br>  
